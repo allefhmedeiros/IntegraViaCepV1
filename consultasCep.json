@@ -1,0 +1,34 @@
+[{
+  "cep": "04877-110",
+  "logradouro": "Estrada Evangelista de Souza",
+  "complemento": "",
+  "bairro": "Cidade Luz",
+  "localidade": "São Paulo",
+  "uf": "SP",
+  "ibge": "3550308",
+  "gia": "1004",
+  "ddd": "11",
+  "siafi": "7107"
+}, {
+  "cep": "04857-025",
+  "logradouro": "Rua José Caimo",
+  "complemento": "",
+  "bairro": "Jardim Varginha",
+  "localidade": "São Paulo",
+  "uf": "SP",
+  "ibge": "3550308",
+  "gia": "1004",
+  "ddd": "11",
+  "siafi": "7107"
+}, {
+  "cep": "04870-025",
+  "logradouro": "Rua André Gabrieli",
+  "complemento": "",
+  "bairro": "Parque do Terceiro Lago",
+  "localidade": "São Paulo",
+  "uf": "SP",
+  "ibge": "3550308",
+  "gia": "1004",
+  "ddd": "11",
+  "siafi": "7107"
+}]
